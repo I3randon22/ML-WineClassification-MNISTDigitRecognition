@@ -31,9 +31,10 @@ To run these notebooks, you will need Python 3.x along with the following librar
 - PyTorch
 - torchvision
 
-Install these libraries using `pip`:
+Install these libraries using terminal, when inside folder with the txt:
 ```bash
-pip install numpy pandas matplotlib torch torchvision
+python -m pip install -r requirements.txt
+```
 
 Clone this repository and run the Jupyter notebooks to see the implementation in action. Make sure you have Jupyter installed.
 
